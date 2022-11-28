@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WideWorldImporters.API.props" />
+</Project>
